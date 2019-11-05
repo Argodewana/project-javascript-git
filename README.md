@@ -1,2 +1,2 @@
 # project-javascript-git
-tugas project javascript github
+tugas edit project javascript github
